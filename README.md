@@ -16,13 +16,19 @@
 <br>
 
 <a href="https://angular.io/">
-<img src="https://img.shields.io/static/v1?label=angulart&message=JS&color=blue&style=for-the-badge&logo=angular">
+<img src="https://img.shields.io/static/v1?label=angular&message=JS&color=blue&style=for-the-badge&logo=angular">
 </a>
 
 <br>
 
 <a href="https://www.javascript.com/">
 <img src="https://img.shields.io/static/v1?label=javascript&message=JS&color=blue&style=for-the-badge&logo=javascript">
+</a>
+
+<br>
+
+<a href="https://nodejs.org/en/">
+<img src="https://img.shields.io/static/v1?label=node&message=JS&color=blue&style=for-the-badge&logo=node">
 </a>
 
 ### Conhecimentos :computer:
