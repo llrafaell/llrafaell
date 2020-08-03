@@ -16,20 +16,21 @@
 <br>
 
 <a href="https://angular.io/">
-<img src="https://img.shields.io/static/v1?label=angular&message=JS&color=blue&style=for-the-badge&logo=angular">
-</a>
-
-<br>
-
-<a href="https://www.javascript.com/">
-<img src="https://img.shields.io/static/v1?label=javascript&message=JS&color=blue&style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/static/v1?label=angular&message=>V10&color=blue&style=for-the-badge&logo=angular">
 </a>
 
 <br>
 
 <a href="https://nodejs.org/en/">
-<img src="https://img.shields.io/static/v1?label=node&message=JS&color=blue&style=for-the-badge&logo=nodejs">
+<img src="https://img.shields.io/static/v1?label=node&message=>12&color=blue&style=for-the-badge&logo=nodejs">
 </a>
+
+<br>
+
+<a href="https://totvs.com.br">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=>12&color=blue&style=for-the-badge&logo=nodejs">
+</a>
+
 
 ### Conhecimentos :computer:
 
