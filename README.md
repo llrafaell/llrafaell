@@ -16,19 +16,19 @@
 <br>
 
 <a href="https://angular.io/">
-<img src="https://img.shields.io/static/v1?label=angular&message= Version >V10&color=blue&style=for-the-badge&logo=angular">
+<img src="https://img.shields.io/static/v1?label=angular&message=VersionV10&color=blue&style=for-the-badge&logo=angular">
 </a>
 
 <br>
 
 <a href="https://nodejs.org/en/">
-<img src="https://img.shields.io/static/v1?label=node&message= Version >12&color=blue&style=for-the-badge&logo=nodejs">
+<img src="https://img.shields.io/static/v1?label=node&message=Version>12&color=blue&style=for-the-badge&logo=nodejs">
 </a>
 
 <br>
 
 <a href="https://totvs.com.br">
-<img src="https://img.shields.io/static/v1?label=TOTVS&message= Version >12&color=blue&style=for-the-badge&logo=nodejs">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Version>12&color=blue&style=for-the-badge&logo=nodejs">
 </a>
 
 
@@ -51,6 +51,8 @@
 <a href="http://gitlab.com/">
 <img src="https://img.shields.io/static/v1?label=gitlab&message=GitLab&color=blue&style=for-the-badge&logo=gitlab">
 </a>
+
+<br>
 
 <a href="http://microsoft.com/">
 <img src="https://img.shields.io/static/v1?label=sql&message=SSIS/SSRS/SSAS&color=blue&style=for-the-badge&logo=sql">
