@@ -16,7 +16,7 @@
 <br>
 
 <a href="https://angular.io/">
-<img src="https://img.shields.io/static/v1?label=angularS&color=blue&style=for-the-badge&logo=angular">
+<img src="https://img.shields.io/static/v1?label=angulart&message=&color=blue&style=for-the-badge&logo=angular">
 </a>
 
 <br>
