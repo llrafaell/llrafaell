@@ -65,3 +65,25 @@
 </a>
 
 
+
+
+
+
+
+
+
+
+
+
+
+**I am Into , 🙏**
+
+**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+<br />
+
+
+![Rafael Gonçalves Github Stats](https://github-readme-stats.vercel.app/api?username=llrafaell&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br />
+
+
