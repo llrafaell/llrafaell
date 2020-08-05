@@ -9,7 +9,6 @@
 </a>
 
 <br>
-<br>
 
 ### Estudando :blue_book:
 
