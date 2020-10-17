@@ -33,7 +33,6 @@
 
 
 ### Conhecimentos :computer:
-
 <br>
 
 <a href="https://git-scm.com/">
