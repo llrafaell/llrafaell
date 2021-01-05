@@ -15,7 +15,7 @@
 ### Estudando :blue_book:
 
 <br>
-
+  
 <a href="https://angular.io/">
 <img src="https://img.shields.io/static/v1?label=angular&message=Version.V11&color=blue&style=for-the-badge&logo=angular">
 </a>
