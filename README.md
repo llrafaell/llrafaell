@@ -32,6 +32,12 @@
 <img src="https://img.shields.io/static/v1?label=TOTVS&message=.&color=blue&style=for-the-badge&logo=nodejs">
 </a>
 
+<br>
+
+<a href="https://totvs.com.br">
+<img src="https://img.shields.io/static/v1?label=IONIC&message=.&color=blue&style=for-the-badge&logo=nodejs">
+</a>
+
 
 ### Conhecimentos :computer:
 <br>
