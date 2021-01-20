@@ -17,19 +17,19 @@
 <br>
   
 <a href="https://angular.io/">
-<img src="https://img.shields.io/static/v1?label=angular&message=&color=blue&style=for-the-badge&logo=angular">
+<img src="https://img.shields.io/static/v1?label=angular&message=.&color=blue&style=for-the-badge&logo=angular">
 </a>
 
 <br>
 
 <a href="https://nodejs.org/en/">
-<img src="https://img.shields.io/static/v1?label=node&message=&color=blue&style=for-the-badge&logo=nodejs">
+<img src="https://img.shields.io/static/v1?label=node&message=.&color=blue&style=for-the-badge&logo=nodejs">
 </a>
 
 <br>
 
 <a href="https://totvs.com.br">
-<img src="https://img.shields.io/static/v1?label=TOTVS&message=&color=blue&style=for-the-badge&logo=nodejs">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=.&color=blue&style=for-the-badge&logo=nodejs">
 </a>
 
 
