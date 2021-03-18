@@ -1,6 +1,7 @@
 ### Seja Bem Vindo 👋
 
  
+ 
 💻  Atualmente sou Arquiteto de Software na National Plataform/Rússia.
 
 :octocat: Procuro sempre que possível compartilhar com a comunidade meus conhecimentos.
